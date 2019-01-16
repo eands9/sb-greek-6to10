@@ -12,14 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"lethargy", sentence:""))
-        list.append(Word(word:"android", sentence:""))
-        list.append(Word(word:"chronic", sentence:""))
-        list.append(Word(word:"biopsy", sentence:""))
-        list.append(Word(word:"irony", sentence:""))
-        list.append(Word(word:"automaton", sentence:""))
-        list.append(Word(word:"enthusiasm", sentence:""))
-        list.append(Word(word:"synopsis", sentence:""))
-        list.append(Word(word:"homogeneous", sentence:""))
+        list.append(Word(word:"odyssey", sentence:""))
+        list.append(Word(word:"megalopolis", sentence:""))
+        list.append(Word(word:"acme", sentence:""))
+        list.append(Word(word:"synonym", sentence:""))
+        list.append(Word(word:"orthodox", sentence:""))
+        list.append(Word(word:"aristocracy", sentence:""))
+        list.append(Word(word:"calypso", sentence:""))
+        list.append(Word(word:"patriarch", sentence:""))
+        list.append(Word(word:"hierarchy", sentence:""))
+        list.append(Word(word:"character", sentence:""))
     }
 }
