@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"synchronous", sentence:""))
-        list.append(Word(word:"misanthropy", sentence:""))
-        list.append(Word(word:"sarcasm", sentence:""))
-        list.append(Word(word:"ephemeral", sentence:""))
-        list.append(Word(word:"polygon", sentence:""))
-        list.append(Word(word:"nemesis", sentence:""))
-        list.append(Word(word:"syntax", sentence:""))
-        list.append(Word(word:"eureka", sentence:""))
-        list.append(Word(word:"topography", sentence:""))
-        list.append(Word(word:"panic", sentence:""))
+        list.append(Word(word:"apostrophe", sentence:""))
+        list.append(Word(word:"geranium", sentence:""))
+        list.append(Word(word:"metaphor", sentence:""))
+        list.append(Word(word:"spherical", sentence:""))
+        list.append(Word(word:"xylophone", sentence:""))
+        list.append(Word(word:"dynamic", sentence:""))
+        list.append(Word(word:"myriad", sentence:""))
+        list.append(Word(word:"epiphany", sentence:""))
+        list.append(Word(word:"apathy", sentence:""))
+        list.append(Word(word:"synergy", sentence:""))
     }
 }
