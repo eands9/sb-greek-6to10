@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"geothermal", sentence:""))
-        list.append(Word(word:"cynical", sentence:""))
-        list.append(Word(word:"homonym", sentence:""))
-        list.append(Word(word:"cryptic", sentence:""))
-        list.append(Word(word:"hypothesis", sentence:""))
-        list.append(Word(word:"academy", sentence:""))
-        list.append(Word(word:"pentathlon", sentence:""))
-        list.append(Word(word:"antibiotic", sentence:""))
-        list.append(Word(word:"diatribe", sentence:""))
-        list.append(Word(word:"etymology", sentence:""))
+        list.append(Word(word:"hydraulic", sentence:""))
+        list.append(Word(word:"trauma", sentence:""))
+        list.append(Word(word:"hygiene", sentence:""))
+        list.append(Word(word:"semantics", sentence:""))
+        list.append(Word(word:"thesaurus", sentence:""))
+        list.append(Word(word:"phenomenon", sentence:""))
+        list.append(Word(word:"cosmos", sentence:""))
+        list.append(Word(word:"protagonist", sentence:""))
+        list.append(Word(word:"acronym", sentence:""))
+        list.append(Word(word:"paradox", sentence:""))
     }
 }
