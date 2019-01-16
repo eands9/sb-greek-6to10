@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"apostrophe", sentence:""))
-        list.append(Word(word:"geranium", sentence:""))
-        list.append(Word(word:"metaphor", sentence:""))
-        list.append(Word(word:"spherical", sentence:""))
-        list.append(Word(word:"xylophone", sentence:""))
-        list.append(Word(word:"dynamic", sentence:""))
-        list.append(Word(word:"myriad", sentence:""))
-        list.append(Word(word:"epiphany", sentence:""))
-        list.append(Word(word:"apathy", sentence:""))
-        list.append(Word(word:"synergy", sentence:""))
+        list.append(Word(word:"amnesia", sentence:""))
+        list.append(Word(word:"philanthropy", sentence:""))
+        list.append(Word(word:"democracy", sentence:""))
+        list.append(Word(word:"strategy", sentence:""))
+        list.append(Word(word:"diagnosis", sentence:""))
+        list.append(Word(word:"topical", sentence:""))
+        list.append(Word(word:"matriarch", sentence:""))
+        list.append(Word(word:"endemic", sentence:""))
+        list.append(Word(word:"analysis", sentence:""))
+        list.append(Word(word:"rhetoric", sentence:""))
     }
 }
