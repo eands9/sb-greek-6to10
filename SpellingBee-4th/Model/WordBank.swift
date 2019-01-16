@@ -12,15 +12,15 @@ class WordBank{
     var list = [Word]()
     
     init(){
-        list.append(Word(word:"eponym", sentence:""))
-        list.append(Word(word:"agnostic", sentence:""))
-        list.append(Word(word:"dogma", sentence:""))
-        list.append(Word(word:"idiom", sentence:""))
-        list.append(Word(word:"thermal", sentence:""))
-        list.append(Word(word:"dyslexia", sentence:""))
-        list.append(Word(word:"olympian", sentence:""))
-        list.append(Word(word:"allegory", sentence:""))
-        list.append(Word(word:"pragmatic", sentence:""))
-        list.append(Word(word:"adamant", sentence:""))
+        list.append(Word(word:"protocol", sentence:""))
+        list.append(Word(word:"tragic", sentence:""))
+        list.append(Word(word:"hydrology", sentence:""))
+        list.append(Word(word:"polymer", sentence:""))
+        list.append(Word(word:"notochord", sentence:""))
+        list.append(Word(word:"biblical", sentence:""))
+        list.append(Word(word:"ergonomic", sentence:""))
+        list.append(Word(word:"mathematics", sentence:""))
+        list.append(Word(word:"tachometer", sentence:""))
+        list.append(Word(word:"protein", sentence:""))
     }
 }
